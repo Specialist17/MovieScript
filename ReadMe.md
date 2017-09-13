@@ -6,5 +6,7 @@ A story about how Johnny Bravo comes up from a bad neighborhood to create someth
 
 ## Cast
  - Johnny - Zac Effron
- - The main competitor - Kevin Hart
- - Johnny's trainer - Dwayne Johnson
+ - The Main Competitor - Kevin Hart
+ - Competitor's Trainer - Hulk Hogan
+ - Johnny's Trainer - Dwayne Johnson
+ - Gym Owner - Morgan Freeman

@@ -10,4 +10,7 @@ A story about how Johnny Bravo comes up from a bad neighborhood to create someth
  - Competitor's Trainer - Chris Pratt
  - Johnny's Trainer - Dwayne Johnson
  - Gym Owner - Morgan Freeman
+ - Extras
+    - Regular - Mr. Rogers
  - Janitor - Keanu Reeves
+
